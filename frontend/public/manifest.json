@@ -1,0 +1,9 @@
+{
+  "short_name": "Memories",
+  "name": "Akbar Full-Stack MERN application ~ Memories",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
